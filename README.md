@@ -1,0 +1,2 @@
+# TrendTrove
+Ecommerce React App
